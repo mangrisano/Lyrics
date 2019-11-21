@@ -68,7 +68,7 @@ def main():
         print(' '.join(args.author).capitalize() + ' - ' +
               ' '.join(args.song).capitalize() + '\n')
         print(lyrics)
-        
+
 
 if __name__ == '__main__':
     main()
